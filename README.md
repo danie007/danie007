@@ -7,7 +7,7 @@
 -->
 
 - 🔭 I’m currently working on **Securing Cyber-Physical Systems**
-- 🌱 I’m currently learning **Embedded C & Flutter** & everything 🤣
+- 🌱 I’m currently learning **Embedded C, Flutter** & everything 🤣
 - 👯 I’m looking to collaborate on **Fun projects with Raspberry Pi**
 - 🤔 I’m looking for help with **Linux Scripting**
 - 💬 Ask me about **Embedded systems, Python**
@@ -34,3 +34,9 @@
 [youtube]: https://www.youtube.com/channel/UCz5w2C2FJENwqm9PBI8FrYg
 [instagram]: https://instagram.com/danied007
 [linkedin]: https://www.linkedin.com/in/danielselvan/
+
+<br />
+<br />
+
+---
+- Special thanks to [Anurag Hazra](https://anuraghazra.github.io/) & Jesse - aka [codeSTACKr](https://www.codestackr.com/)
