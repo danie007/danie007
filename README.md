@@ -21,7 +21,7 @@
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
----
+<br />
 
 <img align="left" alt="danie007's Github Stats" src="https://github-readme-stats.vercel.app/api?username=danie007&show_icons=true&hide_border=true" />
 
