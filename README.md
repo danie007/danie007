@@ -21,10 +21,11 @@
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
+---
 
 <img align="left" alt="danie007's Github Stats" src="https://github-readme-stats.vercel.app/api?username=danie007&show_icons=true&hide_border=true" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danie007&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danie007&layout=compact)](https://github.com/danie007?tab=repositories)
 
 [twitter]: https://twitter.com/botfordani
 [youtube]: https://www.youtube.com/channel/UCz5w2C2FJENwqm9PBI8FrYg
