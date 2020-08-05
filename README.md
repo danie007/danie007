@@ -24,7 +24,9 @@
 
 <img align="left" alt="danie007's Github Stats" src="https://github-readme-stats.vercel.app/api?username=danie007&show_icons=true&hide_border=true" />
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danie007&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 [twitter]: https://twitter.com/botfordani
-[youtube]: https://youtube.com/codeSTACKr
-[instagram]: https://instagram.com/codeSTACKr
+[youtube]: https://www.youtube.com/channel/UCz5w2C2FJENwqm9PBI8FrYg
+[instagram]: https://instagram.com/danied007
 [linkedin]: https://www.linkedin.com/in/danielselvan/
