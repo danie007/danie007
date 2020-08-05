@@ -7,7 +7,7 @@
 -->
 
 - 🔭 I’m currently working on **Securing Cyber-Physical Systems**
-- 🌱 I’m currently learning **Embedded C, Flutter** & everything 🤣
+- 🌱 I’m currently learning **Embedded C, [Flutter](https://www.appbrewery.co/p/flutter-development-bootcamp-with-dart)** & everything 🤣
 - 👯 I’m looking to collaborate on **Fun projects with Raspberry Pi**
 - 🤔 I’m looking for help with **Linux Scripting**
 - 💬 Ask me about **Embedded systems, Python**
