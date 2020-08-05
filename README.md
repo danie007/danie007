@@ -24,6 +24,8 @@
 <br />
 <br />
 
+---
+
 <img align="left" alt="danie007's Github Stats" src="https://github-readme-stats.vercel.app/api?username=danie007&show_icons=true&hide_border=true" />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danie007&layout=compact)](https://github.com/danie007?tab=repositories)
