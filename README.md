@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-## I'm an Engineer, Developer, Designer and a lifelong Student!
+## I'm an Engineer, Developer, Designer and a lifelong Learner!
 
 <!--
 **danie007/danie007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
