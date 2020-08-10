@@ -22,17 +22,18 @@
 
 <br />
 
+[<img align="left" alt="danie007's Github Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danie007&layout=compact&hide_border=true" />](https://github.com/danie007?tab=repositories)
+
 [<img align="left" alt="danie007's Github Stats" src="https://github-readme-stats.vercel.app/api?username=danie007&show_icons=true&hide_border=true" />](https://github.com/danie007?tab=repositories)
 
-[<img align="left" alt="danie007's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danie007&layout=compact&hide_border=true" />](https://github.com/danie007?tab=repositories)
+<br />
+
+---
+
+Special thanks to [Anurag Hazra](https://github.com/anuraghazra/anuraghazra/blob/master/README.md) & Jesse - aka [codeSTACKr](https://github.com/codeSTACKr/codeSTACKr/blob/master/README.md)
 
 [aboutme]: https://about.me/meetdaniel
 [twitter]: https://twitter.com/botfordani
 [youtube]: https://www.youtube.com/channel/UCz5w2C2FJENwqm9PBI8FrYg
 [instagram]: https://instagram.com/danied007
 [linkedin]: https://www.linkedin.com/in/danielselvan/
-
-<br />
-
----
-Special thanks to [Anurag Hazra](https://anuraghazra.github.io/) & Jesse - aka [codeSTACKr](https://www.codestackr.com/)
