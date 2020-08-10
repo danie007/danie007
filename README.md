@@ -14,10 +14,10 @@
 -->
 
 - 🔭 I’m currently working on **Securing Cyber-Physical Systems**
-- 🌱 I’m currently learning **Embedded C, [Flutter](https://www.appbrewery.co/p/flutter-development-bootcamp-with-dart)** & everything 🤣
-- 👯 I’m looking to collaborate on **[Fun projects with Raspberry Pi](https://github.com/danie007/ReSpeaker-4-Mic-Array-for-Raspberry-Pi)**
-- 🤔 I’m looking for help with **[Linux Scripting](https://github.com/danie007/.bash_aliases)**
-- 💬 Ask me about **Embedded systems, Python**
+- 🌱 I’m currently learning **Embedded C**, [Flutter](https://www.appbrewery.co/p/flutter-development-bootcamp-with-dart) & everything 🤣
+- 👯 I’m looking to collaborate on [Fun projects with Raspberry Pi](https://github.com/danie007/ReSpeaker-4-Mic-Array-for-Raspberry-Pi)
+- 🤔 I’m looking for help with [Linux Scripting](https://github.com/danie007/.bash_aliases)
+- 💬 Ask me about **Embedded systems**, **Python**
 - ⚡ Fun fact: There's no **Cloud**, it's just **Someone else's computer** 😝
 
 <br />
