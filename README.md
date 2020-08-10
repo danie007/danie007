@@ -1,4 +1,11 @@
-### Hi there, I'm Daniel Selvan 👋
+### Hi there, I'm [Daniel Selvan](aboutme) 👋
+
+[<img align="left" alt="Daniel | YouTube" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/YouTube_play_buttom_icon_%282013-2017%29.svg/1280px-YouTube_play_buttom_icon_%282013-2017%29.svg.png" />][youtube]
+[<img align="left" alt="Daniel | Twitter" width="27.5px" src="https://upload.wikimedia.org/wikipedia/fr/c/c8/Twitter_Bird.svg" />][twitter]
+[<img align="left" alt="Daniel | LinkedIn" width="22px" src="https://image.flaticon.com/icons/svg/174/174857.svg" />][linkedin]
+[<img align="left" alt="Daniel | Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1024px-Instagram_logo_2016.svg.png" />][instagram]
+
+<br />
 
 ## I'm an Engineer, Developer, Designer and a lifelong Learner!
 
@@ -11,25 +18,18 @@
 - 👯 I’m looking to collaborate on **[Fun projects with Raspberry Pi](https://github.com/danie007/ReSpeaker-4-Mic-Array-for-Raspberry-Pi)**
 - 🤔 I’m looking for help with **[Linux Scripting](https://github.com/danie007/.bash_aliases)**
 - 💬 Ask me about **Embedded systems, Python**
-- 😄 Pronouns: When I was a kid, my English teacher looked my way and said, "**Name two pronouns.**" I said, "*Who?*, *Me?*"
 - ⚡ Fun fact: There's no **Cloud**, it's just **Someone else's computer**
-
-### Connect with me:
-
-[<img align="left" alt="YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 <br />
 
 ---
 
-<img align="left" alt="danie007's Github Stats" src="https://github-readme-stats.vercel.app/api?username=danie007&show_icons=true&hide_border=true" />
+[<img align="left" alt="danie007's Github Stats" src="https://github-readme-stats.vercel.app/api?username=danie007&show_icons=true&hide_border=true" />](https://github.com/danie007?tab=repositories)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danie007&layout=compact)](https://github.com/danie007?tab=repositories)
+[<img align="left" alt="danie007's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danie007&layout=compact&hide_border=true" />](https://github.com/danie007?tab=repositories)
 
+[aboutme]: https://about.me/meetdaniel
 [twitter]: https://twitter.com/botfordani
 [youtube]: https://www.youtube.com/channel/UCz5w2C2FJENwqm9PBI8FrYg
 [instagram]: https://instagram.com/danied007
@@ -39,4 +39,4 @@
 <br />
 
 ---
-- Special thanks to [Anurag Hazra](https://anuraghazra.github.io/) & Jesse - aka [codeSTACKr](https://www.codestackr.com/)
+Special thanks to [Anurag Hazra](https://anuraghazra.github.io/) & Jesse - aka [codeSTACKr](https://www.codestackr.com/)
