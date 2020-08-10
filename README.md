@@ -22,11 +22,9 @@
 
 <br />
 
-[<img align="left" alt="danie007's Github Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danie007&layout=compact&hide_border=true" />](https://github.com/danie007?tab=repositories)
+[![danie007's Github Stats](https://github-readme-stats.vercel.app/api?username=danie007&show_icons=true&hide_border=true)](https://github.com/danie007?tab=repositories)
 
-[<img align="left" alt="danie007's Github Stats" src="https://github-readme-stats.vercel.app/api?username=danie007&show_icons=true&hide_border=true" />](https://github.com/danie007?tab=repositories)
-
-<br />
+[![danie007's Github Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danie007&layout=compact&hide_border=true)](https://github.com/danie007?tab=repositories)
 
 ---
 
