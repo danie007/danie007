@@ -32,6 +32,8 @@
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][linkedin]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][linkedin]
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][linkedin]
+[<img align="left" alt="Raspbian" width="26px" src="https://res.cloudinary.com/andresbaravalle/image/upload/v1542975074/Raspi-PGB001_zyurlo.png" />][linkedin]
+[<img align="left" alt="Yocto Project" width="26px" src="https://static.wixstatic.com/media/3b5532_bab5dd92c28747f1b486c0d38d1b80ff~mv2.png/v1/fill/w_633,h_249,al_c,lg_1,q_85/3b5532_bab5dd92c28747f1b486c0d38d1b80ff~mv2.webp" />][linkedin]
 
 <br />
 <br />
