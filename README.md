@@ -25,7 +25,7 @@
 [![danie007's Github Stats](https://github-readme-stats.vercel.app/api?username=danie007&show_icons=true&hide_border=true)](https://github.com/danie007?tab=repositories)
 
 <details>
-  <summary>:zap: Github Top Langs</summary>
+  <summary>:zap: Github Recent Activity</summary>
 
   <!--START_SECTION:activity-->
 
@@ -34,7 +34,7 @@
 <details>
   <summary>:zap: Github Top Langs</summary>
   
-  *NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/danie007/github-readme-stats)*
+  *NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages I have the most code on github, it's a new feature of [github-readme-stats](https://github.com/danie007/github-readme-stats)*
 
   [<img align="left" alt="danie007's Github Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danie007&layout=compact&hide_border=true" />](https://github.com/danie007?tab=repositories)
 
