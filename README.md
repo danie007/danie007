@@ -24,10 +24,12 @@
 
 ### Languages and Tools:
 
+[<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][linkedin]
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][linkedin]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][linkedin]
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][linkedin]
 
+<br />
 <br />
 
 [![danie007's Github Stats](https://github-readme-stats.danie007.vercel.app/api?username=danie007&show_icons=true&hide_border=true)](https://github.com/danie007?tab=repositories)
@@ -37,7 +39,7 @@
   
   *NOTE: Top languages does not indicate my skill level or something like that, it's a GitHub metric of which languages I have the most code on github, it's a new feature of [github-readme-stats](https://github.com/danie007/github-readme-stats)*
 
-  [<img align="left" alt="danie007's Github Top Langs" src="https://github-readme-stats.danie007.vercel.app/api/top-langs/?username=danie007&layout=compact&hide_border=true" />](https://github.com/danie007?tab=repositories)
+[<img align="left" alt="danie007's Github Top Langs" src="https://github-readme-stats.danie007.vercel.app/api/top-langs/?username=danie007&layout=compact&hide_border=true" />](https://github.com/danie007?tab=repositories)
 
 </details>
 
