@@ -32,7 +32,7 @@
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][linkedin]
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][linkedin]
 [<img align="left" alt="Raspbian" width="26px" src="https://res.cloudinary.com/andresbaravalle/image/upload/v1542975074/Raspi-PGB001_zyurlo.png" />][linkedin]
-[<img align="left" alt="Yocto Project" width="26px" src="assets/yocto.png" />][linkedin]
+[<img align="left" alt="Yocto Project" width="32px" src="assets/yocto.png" />][linkedin]
 
 <br />
 <br />
