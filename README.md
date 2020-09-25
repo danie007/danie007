@@ -1,10 +1,10 @@
 ### Hi there, I'm [Daniel Selvan][aboutme] 👋🏽
 
-[<img align="left" alt="Daniel | StackOverflow" height="36px" src="assets/stackoverflow.png" />][stackoverflow]
-[<img align="left" alt="Daniel | YouTube" height="36px" src="assets/youtube.png" />][youtube]
-[<img align="left" alt="Daniel | Twitter" height="36px" src="assets/twitter.png" />][twitter]
-[<img align="left" alt="Daniel | LinkedIn" height="36px" src="assets/linkedin.png" />][linkedin]
-[<img align="left" alt="Daniel | Instagram" height="36px" src="assets/instagram.png" />][instagram]
+[<img align="left" alt="Daniel | StackOverflow" height="34px" src="assets/stackoverflow.png" />][stackoverflow]
+[<img align="left" alt="Daniel | YouTube" height="34px" src="assets/youtube.png" />][youtube]
+[<img align="left" alt="Daniel | Twitter" height="34px" src="assets/twitter.png" />][twitter]
+[<img align="left" alt="Daniel | LinkedIn" height="34px" src="assets/linkedin.png" />][linkedin]
+[<img align="left" alt="Daniel | Instagram" height="34px" src="assets/instagram.png" />][instagram]
 
 <br />
 
