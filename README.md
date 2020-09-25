@@ -1,10 +1,10 @@
 ### Hi there, I'm [Daniel Selvan][aboutme] 👋🏽
 
-[<img align="left" alt="Daniel | Instagram" width="20px" src="https://cdn.sstatic.net/Sites/stackoverflow/company/Img/logos/so/so-icon.svg?v=f13ebeedfa9e" />][stackoverflow]
-[<img align="left" alt="Daniel | YouTube" width="28.5px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/YouTube_play_buttom_icon_%282013-2017%29.svg/1280px-YouTube_play_buttom_icon_%282013-2017%29.svg.png" />][youtube]
-[<img align="left" alt="Daniel | Twitter" width="24.5px" src="https://upload.wikimedia.org/wikipedia/fr/c/c8/Twitter_Bird.svg" />][twitter]
-[<img align="left" alt="Daniel | LinkedIn" width="20px" src="https://image.flaticon.com/icons/svg/174/174857.svg" />][linkedin]
-[<img align="left" alt="Daniel | Instagram" width="20px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1024px-Instagram_logo_2016.svg.png" />][instagram]
+[<img align="left" alt="Daniel | Instagram" height="28px" src="https://cdn.sstatic.net/Sites/stackoverflow/company/Img/logos/so/so-icon.svg?v=f13ebeedfa9e" />][stackoverflow]
+[<img align="left" alt="Daniel | YouTube" height="28px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/YouTube_play_buttom_icon_%282013-2017%29.svg/1280px-YouTube_play_buttom_icon_%282013-2017%29.svg.png" />][youtube]
+[<img align="left" alt="Daniel | Twitter" height="28px" src="https://upload.wikimedia.org/wikipedia/fr/c/c8/Twitter_Bird.svg" />][twitter]
+[<img align="left" alt="Daniel | LinkedIn" height="28px" src="https://image.flaticon.com/icons/svg/174/174857.svg" />][linkedin]
+[<img align="left" alt="Daniel | Instagram" height="28px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1024px-Instagram_logo_2016.svg.png" />][instagram]
 
 <br />
 
