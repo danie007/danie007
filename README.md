@@ -1,10 +1,10 @@
 ### Hi there, I'm [Daniel Selvan][aboutme] 👋🏽
 
-[<img align="left" alt="Daniel | Instagram" height="28px" src="https://cdn.sstatic.net/Sites/stackoverflow/company/Img/logos/so/so-icon.svg?v=f13ebeedfa9e" />][stackoverflow]
-[<img align="left" alt="Daniel | YouTube" height="28px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/YouTube_play_buttom_icon_%282013-2017%29.svg/1280px-YouTube_play_buttom_icon_%282013-2017%29.svg.png" />][youtube]
-[<img align="left" alt="Daniel | Twitter" height="28px" src="https://upload.wikimedia.org/wikipedia/fr/c/c8/Twitter_Bird.svg" />][twitter]
-[<img align="left" alt="Daniel | LinkedIn" height="28px" src="https://image.flaticon.com/icons/svg/174/174857.svg" />][linkedin]
-[<img align="left" alt="Daniel | Instagram" height="28px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1024px-Instagram_logo_2016.svg.png" />][instagram]
+[<img align="left" alt="Daniel | StackOverflow" height="28px" src="assets/stackoverflow.png" />][stackoverflow]
+[<img align="left" alt="Daniel | YouTube" height="28px" src="assets/youtube.png" />][youtube]
+[<img align="left" alt="Daniel | Twitter" height="28px" src="assets/twitter.png" />][twitter]
+[<img align="left" alt="Daniel | LinkedIn" height="28px" src="assets/linkedin.png" />][linkedin]
+[<img align="left" alt="Daniel | Instagram" height="28px" src="assets/instagram.png" />][instagram]
 
 <br />
 
@@ -23,15 +23,15 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="Python" height="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][linkedin]
-[<img align="left" alt="GNU Bash" height="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png" />][linkedin]
+[<img align="left" alt="Python" height="40px" src="assets/python.png" />][linkedin]
+[<img align="left" alt="GNU Bash" height="40px" src="assets/bash.png" />][linkedin]
 [<img align="left" alt="C Programming" height="40px" src="assets/c.png" />][linkedin]
-[<img align="left" alt="Swift" height="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/swift/swift.png" />][linkedin]
-[<img align="left" alt="Javascript" height="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][linkedin]
-[<img align="left" alt="Git" height="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][linkedin]
-[<img align="left" alt="GitHub" height="40px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][linkedin]
-[<img align="left" alt="Terminal" height="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][linkedin]
-[<img align="left" alt="Raspbian" height="40px" src="https://res.cloudinary.com/andresbaravalle/image/upload/v1542975074/Raspi-PGB001_zyurlo.png" />][linkedin]
+[<img align="left" alt="Swift" height="40px" src="assets/swift.png" />][linkedin]
+[<img align="left" alt="Javascript" height="40px" src="assets/js.svg" />][linkedin]
+[<img align="left" alt="Git" height="40px" src="assets/git.png" />][linkedin]
+[<img align="left" alt="GitHub" height="40px" src="assets/github.png" />][linkedin]
+[<img align="left" alt="Terminal" height="40px" src="assets/terminal.png" />][linkedin]
+[<img align="left" alt="Raspbian" height="40px" src="assets/rpi.webp" />][linkedin]
 [<img align="left" alt="Yocto Project" height="40px" src="assets/yocto.png" />][linkedin]
 
 <br />
@@ -46,7 +46,7 @@
   
   *NOTE: Top languages does not indicate my skill level or something like that, it's a GitHub metric of which languages I have the most code on github, it's a new feature of [github-readme-stats](https://github.com/danie007/github-readme-stats)*
 
-[<img align="left" alt="danie007's Github Top Langs" src="https://github-readme-stats.danie007.vercel.app/api/top-langs/?username=danie007&layout=compact&hide_border=true" />](https://github.com/danie007?tab=repositories)
+[<img align="left" alt="danie007's Github Top Langs" src="assets/" />](https://github.com/danie007?tab=repositories)
 
 </details>
 
