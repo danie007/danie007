@@ -39,7 +39,7 @@
 
 ---
 
-[![danie007's Github Stats](https://github-readme-stats.danie007.vercel.app/api?username=danie007&show_icons=true&hide_border=true)](https://github.com/danie007?tab=repositories)
+[![danie007's Github Stats](https://github-readme-stats.danie007.vercel.app/api?username=danie007&count_private=true&show_icons=true&hide_border=true)](https://github.com/danie007?tab=repositories)
 
 <details>
   <summary>:zap: Github Top Langs</summary>
