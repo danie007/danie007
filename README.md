@@ -34,11 +34,6 @@
 [<img align="left" alt="Raspbian" height="40px" src="assets/rpi.webp" />][linkedin]
 [<img align="left" alt="Yocto Project" height="40px" src="assets/yocto.png" />][linkedin]
 
-<br />
-<br />
-
----
-
 <!-- The Readme Stats need fixing - ASAP -->
 <!-- [![danie007's Github Stats](https://github-readme-stats.danie007.vercel.app/api?username=danie007&count_private=true&show_icons=true&hide_border=true)](https://github.com/danie007?tab=repositories)
 
